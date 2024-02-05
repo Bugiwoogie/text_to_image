@@ -2,7 +2,6 @@ This project was created to demonstrate my skills in software development. In th
 
 Here is a list of Features already implemented:
 - Prisma as ORM
-- Bootstrap 5.3
 - Tailwind CSS
 
 Next Features:
